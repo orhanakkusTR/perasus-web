@@ -6,7 +6,7 @@ export default function PrivacyPolicy() {
       <SEO
         title="Privacy Policy - Perasus Construction"
         description="Privacy Policy for Perasus Construction. Learn how we collect, use, and protect your personal information."
-        canonicalUrl="https://www.perasusconstruction.com/privacy-policy"
+        canonicalUrl="https://perasusconstruction.com/privacy-policy"
       />
 
       <section className="relative min-h-[40vh] flex items-center justify-center overflow-hidden bg-gradient-to-br from-primary to-primary-dark">

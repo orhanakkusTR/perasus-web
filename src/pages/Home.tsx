@@ -12,7 +12,7 @@ export default function Home() {
   const organizationData = {
     name: 'Perasus Construction',
     description: 'Licensed General Contractor - Construction, Renovation & Project Management in New Jersey, New York, Pennsylvania',
-    url: 'https://www.perasusconstruction.com',
+    url: 'https://perasusconstruction.com',
     logo: '/images/perasus-logo.png',
     telephone: '+1-862-402-9355',
     email: 'info@perasusconstruction.com',
@@ -58,7 +58,7 @@ export default function Home() {
       <SEO
         title="Perasus Construction - Licensed General Contractor | Design • Build • Project Management"
         description="Licensed General Contractor with 20+ years experience. Commercial & Residential construction, renovation, and project management serving New Jersey, New York, Pennsylvania. Call (862) 402-9355."
-        canonicalUrl="https://www.perasusconstruction.com"
+        canonicalUrl="https://perasusconstruction.com"
         ogImage="/images/hero-construction.jpg"
       />
       <StructuredData type="LocalBusiness" data={organizationData} />

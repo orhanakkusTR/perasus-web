@@ -76,7 +76,7 @@ export default function Contact() {
       <SEO
         title="Contact Perasus Construction - Free Quote (862) 402-9355 - New Jersey, New York & Pennsylvania"
         description="Get in touch with Perasus Construction for your construction project in New Jersey, New York & Pennsylvania. Call (862) 402-9355 for a free consultation."
-        canonicalUrl="https://www.perasusconstruction.com/contact"
+        canonicalUrl="https://perasusconstruction.com/contact"
         ogImage="/images/hero-construction.jpg"
       />
       <section className="relative min-h-[60vh] md:min-h-[70vh] flex items-center overflow-hidden pt-32 pb-16 md:pt-40 md:pb-20">

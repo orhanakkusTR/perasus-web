@@ -98,7 +98,7 @@ export default function Portfolio() {
   const portfolioData = {
     name: 'Perasus Construction Portfolio',
     description: 'View our completed projects including kitchen renovations, bathroom remodels, flooring installations, and commercial construction in New Jersey, New York, and Pennsylvania.',
-    url: 'https://www.perasusconstruction.com/portfolio'
+    url: 'https://perasusconstruction.com/portfolio'
   };
 
   return (
@@ -106,7 +106,7 @@ export default function Portfolio() {
       <SEO
         title="Projects & Portfolio - Perasus Construction | Kitchen, Bathroom & Commercial Renovations"
         description="Browse our portfolio of completed construction projects in New Jersey, New York & Pennsylvania. Kitchen renovations, bathroom remodels, flooring, and commercial construction. 20+ years experience."
-        canonicalUrl="https://www.perasusconstruction.com/portfolio"
+        canonicalUrl="https://perasusconstruction.com/portfolio"
         ogImage="/images/hero-construction.jpg"
       />
       <StructuredData type="BreadcrumbList" data={portfolioData} />

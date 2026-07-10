@@ -6,7 +6,7 @@ export default function TermsOfService() {
       <SEO
         title="Terms of Service - Perasus Construction"
         description="Terms of Service for Perasus Construction. Read our terms and conditions for using our services."
-        canonicalUrl="https://www.perasusconstruction.com/terms-of-service"
+        canonicalUrl="https://perasusconstruction.com/terms-of-service"
       />
 
       <section className="relative min-h-[40vh] flex items-center justify-center overflow-hidden bg-gradient-to-br from-primary to-primary-dark">

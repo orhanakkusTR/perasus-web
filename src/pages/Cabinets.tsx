@@ -44,7 +44,7 @@ export default function Cabinets() {
       <SEO
         title="Custom Kitchen Cabinets - Premium Cabinet Selection | Perasus Construction"
         description="Browse our extensive collection of custom kitchen cabinets in New Jersey, New York & Pennsylvania. Fusion, Galaxy, Luna, Metro & more premium cabinet lines. Expert installation included."
-        canonicalUrl="https://www.perasusconstruction.com/products/cabinets"
+        canonicalUrl="https://perasusconstruction.com/products/cabinets"
       />
       <section className="relative min-h-[60vh] md:min-h-[70vh] lg:min-h-[80vh] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/50 to-transparent z-10"></div>

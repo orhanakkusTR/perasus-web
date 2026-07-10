@@ -29,7 +29,7 @@ export default function Flooring() {
       <SEO
         title="Premium Flooring Options - Hardwood, Vinyl & Tile | Perasus Construction"
         description="Explore premium flooring solutions in New Jersey, New York & Pennsylvania. Hardwood, luxury vinyl plank, ceramic tile, and natural stone. Professional installation by Perasus Construction."
-        canonicalUrl="https://www.perasusconstruction.com/products/flooring"
+        canonicalUrl="https://perasusconstruction.com/products/flooring"
       />
       <section className="relative min-h-[60vh] md:min-h-[70vh] lg:min-h-[80vh] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/50 to-transparent z-10"></div>

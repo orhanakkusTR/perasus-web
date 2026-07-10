@@ -12,7 +12,7 @@ export default function About() {
       <SEO
         title="About Perasus Construction - Nearly 20 Years of Excellence in New Jersey, New York & Pennsylvania"
         description="Learn about Perasus Construction - Licensed General Contractor with international expertise. Residential, commercial & public construction services in New Jersey, New York & Pennsylvania."
-        canonicalUrl="https://www.perasusconstruction.com/about"
+        canonicalUrl="https://perasusconstruction.com/about"
         ogImage="/images/hero-construction.jpg"
       />
       <section className="relative min-h-[60vh] md:min-h-[70vh] flex items-center overflow-hidden pt-32 pb-16 md:pt-40 md:pb-20">

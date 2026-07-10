@@ -345,7 +345,7 @@ export default function Services() {
       <SEO
         title="Construction Services - Commercial & Residential | Perasus Construction"
         description="Comprehensive construction and renovation services in New Jersey, New York, Pennsylvania. Commercial: restaurants, hotels, offices. Residential: kitchens, bathrooms, HVAC, outdoor spaces."
-        canonicalUrl="https://www.perasusconstruction.com/services"
+        canonicalUrl="https://perasusconstruction.com/services"
         ogImage="/images/hero-construction.jpg"
       />
 
