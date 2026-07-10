@@ -56,8 +56,8 @@ export default function Home() {
   return (
     <div className="min-h-screen">
       <SEO
-        title="Perasus Construction - Licensed General Contractor | Design • Build • Project Management"
-        description="Licensed General Contractor with 20+ years experience. Commercial & Residential construction, renovation, and project management serving New Jersey, New York, Pennsylvania. Call (862) 402-9355."
+        title="General Contractor in NJ, NY & PA | Perasus Construction"
+        description="Licensed general contractor with 20+ years' experience. Commercial & residential construction, renovation & project management in NJ, NY & PA."
         canonicalUrl="https://perasusconstruction.com"
         ogImage="/images/hero-construction.jpg"
       />

@@ -140,8 +140,8 @@ export default function Gallery() {
   return (
     <div className="min-h-screen">
       <SEO
-        title="Projects & Portfolio - Perasus Construction | Kitchen, Bathroom & Commercial Renovations"
-        description="Browse our portfolio of completed construction projects in New Jersey, New York & Pennsylvania. Kitchen renovations, bathroom remodels, flooring, and commercial construction. 20+ years experience."
+        title="Our Projects & Portfolio | Perasus Construction"
+        description="See completed projects in NJ, NY & PA — commercial renovations, kitchens, bathrooms & flooring by Perasus Construction. 20+ years' experience."
         canonicalUrl="https://perasusconstruction.com/portfolio"
         ogImage="/images/hero-construction.jpg"
       />

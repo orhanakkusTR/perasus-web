@@ -10,8 +10,8 @@ export default function About() {
   return (
     <div className="min-h-screen">
       <SEO
-        title="About Perasus Construction - Nearly 20 Years of Excellence in New Jersey, New York & Pennsylvania"
-        description="Learn about Perasus Construction - Licensed General Contractor with international expertise. Residential, commercial & public construction services in New Jersey, New York & Pennsylvania."
+        title="About Perasus Construction | 20 Years' Experience"
+        description="Licensed general contractor with international expertise and nearly 20 years' experience in residential, commercial & public construction across NJ, NY & PA."
         canonicalUrl="https://perasusconstruction.com/about"
         ogImage="/images/hero-construction.jpg"
       />

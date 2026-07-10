@@ -343,8 +343,8 @@ export default function Services() {
   return (
     <div className="min-h-screen">
       <SEO
-        title="Construction Services - Commercial & Residential | Perasus Construction"
-        description="Comprehensive construction and renovation services in New Jersey, New York, Pennsylvania. Commercial: restaurants, hotels, offices. Residential: kitchens, bathrooms, HVAC, outdoor spaces."
+        title="Construction Services in NJ, NY & PA | Perasus"
+        description="Commercial & residential construction and renovation in NJ, NY & PA — restaurants, hotels, offices, kitchens, bathrooms, HVAC & more. Free estimate."
         canonicalUrl="https://perasusconstruction.com/services"
         ogImage="/images/hero-construction.jpg"
       />

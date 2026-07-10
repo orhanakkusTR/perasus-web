@@ -27,8 +27,8 @@ export default function Flooring() {
   return (
     <div className="min-h-screen bg-gray-50">
       <SEO
-        title="Premium Flooring Options - Hardwood, Vinyl & Tile | Perasus Construction"
-        description="Explore premium flooring solutions in New Jersey, New York & Pennsylvania. Hardwood, luxury vinyl plank, ceramic tile, and natural stone. Professional installation by Perasus Construction."
+        title="Flooring — Hardwood, Vinyl & Tile | Perasus Construction"
+        description="Premium flooring in NJ, NY & PA — hardwood, luxury vinyl plank, ceramic tile & natural stone with professional installation. Free estimate."
         canonicalUrl="https://perasusconstruction.com/products/flooring"
       />
       <section className="relative min-h-[60vh] md:min-h-[70vh] lg:min-h-[80vh] flex items-center justify-center overflow-hidden">

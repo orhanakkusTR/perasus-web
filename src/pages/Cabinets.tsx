@@ -42,8 +42,8 @@ export default function Cabinets() {
   return (
     <div className="min-h-screen bg-gray-50">
       <SEO
-        title="Custom Kitchen Cabinets - Premium Cabinet Selection | Perasus Construction"
-        description="Browse our extensive collection of custom kitchen cabinets in New Jersey, New York & Pennsylvania. Fusion, Galaxy, Luna, Metro & more premium cabinet lines. Expert installation included."
+        title="Custom Kitchen Cabinets | Perasus Construction"
+        description="Custom kitchen cabinets in NJ, NY & PA — Fusion, Galaxy, Luna, Metro & more premium lines with expert installation. Get a free quote."
         canonicalUrl="https://perasusconstruction.com/products/cabinets"
       />
       <section className="relative min-h-[60vh] md:min-h-[70vh] lg:min-h-[80vh] flex items-center justify-center overflow-hidden">

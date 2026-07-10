@@ -31,7 +31,7 @@ export default function RealEstateInvestment() {
     <div className="min-h-screen">
       <SEO
         title="Real Estate Investment in the U.S. | Perasus Construction"
-        description="End-to-end U.S. real estate investment services for international investors — property selection, legal process management, and professional support for residential and commercial properties."
+        description="End-to-end U.S. real estate investment for international investors — property selection, legal process management & support for all property types."
         canonicalUrl="https://perasusconstruction.com/real-estate-investment"
         ogImage="/images/CommercialOfficePerasus.jpg"
       />
